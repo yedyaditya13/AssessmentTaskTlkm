@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002 Positive case - Logout true</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c36c86a9-51c5-42e4-9060-c476ea2e7447</testCaseGuid>
+</TestCaseEntity>

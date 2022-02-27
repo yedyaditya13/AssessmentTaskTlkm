@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002 Negative Case - Login Using User Unregistered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>729ae6e9-95f7-4193-9239-8ae024d5fdb1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 Negative Case - Login Using Email Not Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa058258-e313-4486-a530-b6a9f05b336c</testCaseGuid>
+</TestCaseEntity>
